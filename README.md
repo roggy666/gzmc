@@ -1,0 +1,2 @@
+# gzmc
+Гайд сервера GlitchZone
